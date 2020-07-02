@@ -2,8 +2,5 @@
 ## MASTER
 
 this is maaster
-=======
-## UPDATE
 
-this is iupdate-readme
->>>>>>> update-readme
+Updates made on master readme on git hub before rebase
